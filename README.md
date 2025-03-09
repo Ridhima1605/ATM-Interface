@@ -1,4 +1,6 @@
 # ATM-Interface Brainwave_Matrix_Intern
+![image](https://github.com/user-attachments/assets/1144cc7d-5cc8-4800-9373-de164a7db0dd)
+
 # ATM Interface in Python🚀
 
 ## Overview
